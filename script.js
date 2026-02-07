@@ -36,7 +36,7 @@ envelope.addEventListener("click", () => {
 //    noBtn.style.transform = `translate(${moveX}px, ${moveY}px)`;
 //});
 
-Logic to make YES btn to grow
+// Logic to make YES btn to grow
 
 let yesScale = 1;
 
